@@ -337,12 +337,12 @@ if text != '':    # check for non empty text box
 
 
 ## Output
-Positive Example:
+Negative Example:
 
 ![image1](https://user-images.githubusercontent.com/111745916/207584818-223c9bff-0396-4ba7-86cf-05dccd08ee06.png)
 
 
-Negative Example:
+Positive Example:
 
 ![image2](https://user-images.githubusercontent.com/111745916/207584867-b7ec05f0-a357-43e4-841b-b700030e3272.png)
 
