@@ -1,5 +1,5 @@
 import re
-from tensorflow import keras
+import keras
 from nltk.corpus import stopwords   
 from keras.preprocessing.text import Tokenizer  
 from keras.utils import pad_sequences   
