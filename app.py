@@ -1,6 +1,7 @@
 import re
 import keras
 from nltk.corpus import stopwords   
+nltk.download('stopwords')
 from keras.preprocessing.text import Tokenizer  
 from keras.utils import pad_sequences   
 import streamlit as st
