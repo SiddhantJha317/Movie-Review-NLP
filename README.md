@@ -349,7 +349,7 @@ Positive Example:
 
 Video Example:
 
-
+![streamlit-app-2022-12-14-17-12-25](https://user-images.githubusercontent.com/111745916/207585911-c3c77b6d-b40d-44f2-ac50-af2005eca54c.gif)
 
 
 ## Requirements and dependencies
